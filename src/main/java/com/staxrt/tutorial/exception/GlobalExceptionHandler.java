@@ -28,11 +28,6 @@ import org.springframework.web.context.request.WebRequest;
 
 import java.util.Date;
 
-/**
- * The type Global exception handler.
- *
- * @author Givantha Kalansuriya
- */
 @ControllerAdvice
 public class GlobalExceptionHandler {
 

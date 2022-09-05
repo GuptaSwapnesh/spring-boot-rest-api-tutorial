@@ -33,11 +33,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * The type User controller.
- *
- * @author Givantha Kalansuriya
- */
 @RestController
 @RequestMapping("/api/v1")
 public class UserController {
